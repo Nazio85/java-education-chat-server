@@ -1,0 +1,11 @@
+.idea/*
+.gitignore
+Server.iml
+*.jar
+*.class
+
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено Server.iml
+Будет удалено out/
+Будет удалено src/
